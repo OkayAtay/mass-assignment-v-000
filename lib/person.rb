@@ -1,5 +1,5 @@
 class Person
-  def initalization
-    
+  def initialization
+
   end
 end
